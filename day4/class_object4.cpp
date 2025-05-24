@@ -1,7 +1,7 @@
 #include <iostream>
-#include <string>
 using namespace std;
-class BankAccount {
+class BankAccount 
+{
 private:
     int account_Number;
     string holder_Name;
